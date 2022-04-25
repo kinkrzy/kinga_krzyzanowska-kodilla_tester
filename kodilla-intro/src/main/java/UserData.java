@@ -1,4 +1,4 @@
-public class UserData {
+public class UserData{
 
         String name;
         double age;
